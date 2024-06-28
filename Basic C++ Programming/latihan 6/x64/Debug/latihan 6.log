@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Rendezvous\source\repos\RenoTxT\TeknikPemrograman\latihan 6\Source.cpp(9,16): warning C4311: 'reinterpret_cast': pointer truncation from 'int *' to 'int'
+C:\Users\Rendezvous\source\repos\RenoTxT\TeknikPemrograman\latihan 6\Source.cpp(9,16): warning C4302: 'reinterpret_cast': truncation from 'int *' to 'int'
+C:\Users\Rendezvous\source\repos\RenoTxT\TeknikPemrograman\latihan 6\Source.cpp(15,15): warning C4311: 'reinterpret_cast': pointer truncation from 'double *' to 'int'
+C:\Users\Rendezvous\source\repos\RenoTxT\TeknikPemrograman\latihan 6\Source.cpp(15,15): warning C4302: 'reinterpret_cast': truncation from 'double *' to 'int'
+  latihan 6.vcxproj -> C:\Users\Rendezvous\source\repos\RenoTxT\TeknikPemrograman\x64\Debug\latihan 6.exe

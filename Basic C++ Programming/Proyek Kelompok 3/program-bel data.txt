@@ -1,0 +1,15 @@
+---------------------------------------------
+          -- BAR COMPETITION 24' --          
+                 DATA PESERTA                
+---------------------------------------------
+Lomba               :   program                
+Nama Tim            :   bel                    
+Nama Sekolah        :   sma1                   
+Nomor Telepon       :   0984                   
+Alamat Email        :   benra                  
+Nama Peserta 1      :   rey                    
+Nama Peserta 2      :   rehan                  
+Nama Peserta 3      :   yogi                   
+
+	     2024-02-07 16:15:29
+-----------------------------------------------

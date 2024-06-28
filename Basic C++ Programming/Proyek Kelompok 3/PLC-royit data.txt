@@ -1,0 +1,15 @@
+---------------------------------------------
+          -- BAR COMPETITION 24' --          
+                 DATA PESERTA                
+---------------------------------------------
+Lomba               :   PLC                    
+Nama Tim            :   royit                  
+Nama Sekolah        :   atmi                   
+Nomor Telepon       :   123                    
+Alamat Email        :   23aas                  
+Nama Peserta 1      :   bena                   
+Nama Peserta 2      :   re                     
+Nama Peserta 3      :   le                     
+
+	     2024-02-07 13:33:10
+-----------------------------------------------

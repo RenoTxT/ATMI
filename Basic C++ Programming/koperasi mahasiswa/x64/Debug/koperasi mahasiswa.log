@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\Source.cpp(9,18): error C2011: 'Mahasiswa': 'struct' type redefinition
+  C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\tambahPeserta.h(7,8):
+  see declaration of 'Mahasiswa'
+  
+C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\Source.cpp(17,11): error C2079: 'pesertaKoperasi' uses undefined struct 'Mahasiswa'
+C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\Source.cpp(31,12): error C1075: '{': no matching token found
+  tambahPeserta.cpp
+C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\tambahPeserta.cpp(19,21): error C2511: 'void tambahPeserta::tambahPesertaCP(void)': overloaded member function not found in 'tambahPeserta'
+  C:\Users\Rendezvous\source\repos\Teknik Pemrograman\koperasi mahasiswa\tambahPeserta.h(13,7):
+  see declaration of 'tambahPeserta'
+  
+  Generating Code...

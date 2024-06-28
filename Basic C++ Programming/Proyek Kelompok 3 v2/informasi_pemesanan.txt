@@ -1,0 +1,7 @@
+Kode Pemesanan: 20240207125319
+Kelas: 003
+Tanggal Pemesanan: 8/2/2024
+Jam Mulai: 9:00
+Jam Berhenti: 12:00
+Sisa Pembayaran: Rp 0
+------------------------

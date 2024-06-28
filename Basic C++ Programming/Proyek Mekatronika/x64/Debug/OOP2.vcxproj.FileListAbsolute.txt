@@ -1,0 +1,4 @@
+D:\0._Ruben_20222036\OOP2\x64\Debug\OOP2.exe
+D:\ATMI\Tk.2\Pemrograman C++\OOP2\x64\Debug\OOP2.exe
+C:\Users\user\Downloads\OOP2\OOP2\x64\Debug\OOP2.exe
+C:\Users\KRISHARYADI\Downloads\OOP2\OOP2\OOP2\OOP2\x64\Debug\OOP2.exe

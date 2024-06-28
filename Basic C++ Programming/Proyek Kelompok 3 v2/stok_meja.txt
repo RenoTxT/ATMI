@@ -1,0 +1,13 @@
+========================================
+-                Daftar                -
+-            Stok Kelas Pada           -
+-        PaintBall Battle Ground       -
+-       Politeknik ATMI Surakarta      -
+========================================
+Stok Kelas Reguler	:5
+=--------------------------------------=
+Stok Kelas Gold   	: 4
+=--------------------------------------=
+Stok Kelas Premium	: 2
+
+========================================
