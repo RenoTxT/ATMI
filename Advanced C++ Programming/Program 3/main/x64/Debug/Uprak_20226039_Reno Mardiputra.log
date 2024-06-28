@@ -1,0 +1,4 @@
+﻿  userPage.cpp
+D:\MHS-9C1\Uprak_20226039_Reno Mardiputra\Uprak_20226039_Reno Mardiputra\userPage.cpp(110,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\MHS-9C1\Uprak_20226039_Reno Mardiputra\Uprak_20226039_Reno Mardiputra\userPage.cpp(86,17): warning C4102: 'invoice': unreferenced label
+  Uprak_20226039_Reno Mardiputra.vcxproj -> D:\MHS-9C1\Uprak_20226039_Reno Mardiputra\x64\Debug\Uprak_20226039_Reno Mardiputra.exe
