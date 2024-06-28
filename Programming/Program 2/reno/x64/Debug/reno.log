@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\MHS-10C2\Rangga_20222031_tmkc\reno\reno\Source.cpp(125,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\MHS-10C2\Rangga_20222031_tmkc\reno\reno\Source.cpp(207,36): warning C4101: 'e': unreferenced local variable
+  reno.vcxproj -> D:\MHS-10C2\Rangga_20222031_tmkc\reno\x64\Debug\reno.exe

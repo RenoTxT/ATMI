@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\MHS-10C2\Rangga_20222031_tmkc\reno\Project1\Source.cpp(6,1): warning C4102: 'awal': unreferenced label
+D:\MHS-10C2\Rangga_20222031_tmkc\reno\Project1\Source.cpp(4,10): warning C4101: 'yt': unreferenced local variable
+  koperasi.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol "void __cdecl menu(void)" (?menu@@YAXXZ) referenced in function main
+D:\MHS-10C2\Rangga_20222031_tmkc\reno\x64\Debug\tolower.exe : fatal error LNK1120: 1 unresolved externals
